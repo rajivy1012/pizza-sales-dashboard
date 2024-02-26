@@ -1,10 +1,13 @@
 Pizza Sales Dashboard
+-------------
 
 Overview:
+-----
 
 This Pizza Sales Dashboard provides a comprehensive visualization of sales data for a pizza restaurant. It is designed to offer insights into various aspects of the business, including sales performance, customer preferences, and trends over time. The dashboard is user-friendly and interactive, allowing users to explore the data and make informed decisions.
 
 Home Page :
+-----
 ![image](https://github.com/rajivy1012/pizza-sales-dashboard/assets/157632817/3f1f0359-6f2b-4403-bd6d-4465f22babf3)
 
 Best/Worst Seller:
@@ -12,6 +15,7 @@ Best/Worst Seller:
 
 
 Features:
+-----
 
 
 Sales Overview: View a summary of total sales, average order value, and total number of orders.
