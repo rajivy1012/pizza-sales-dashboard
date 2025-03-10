@@ -33,13 +33,21 @@ The **Pizza Sales Dashboard** is an interactive and data-driven tool designed to
 - Export reports and visualizations in **PDF, Excel, and CSV formats**.
 - Share insights with stakeholders effortlessly.
 
+
+Home Page :
+-----
+![image](https://github.com/rajivy1012/pizza-sales-dashboard/assets/157632817/3f1f0359-6f2b-4403-bd6d-4465f22babf3)
+
+Best/Worst Seller:
+![image](https://github.com/rajivy1012/pizza-sales-dashboard/assets/157632817/a11264f4-8781-4909-8857-ec06d12db598)
+
+
 ---
 
-## 🛠️ Tech Stack
-- **Frontend**: Dash, Plotly, JavaScript
-- **Backend**: Python, Flask
-- **Database**: MySQL 
-- **Visualization**: Matplotlib, Seaborn, Plotly
+## 🛠️ Tools and Technologies
+- **Power BI** -  For data visualization and interactive dashboard creation
+- **SQL** - Data extraction and transformation
+- **Excel** - Data storage and preprocessing
 
 ---
 
@@ -54,10 +62,6 @@ The **Pizza Sales Dashboard** is an interactive and data-driven tool designed to
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit issues, feature requests, or pull requests.
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
@@ -67,12 +71,5 @@ This project is licensed under the **MIT License**.
 
 🔗 **Turn your pizza sales data into actionable insights today!** 🚀
 
-
-Home Page :
------
-![image](https://github.com/rajivy1012/pizza-sales-dashboard/assets/157632817/3f1f0359-6f2b-4403-bd6d-4465f22babf3)
-
-Best/Worst Seller:
-![image](https://github.com/rajivy1012/pizza-sales-dashboard/assets/157632817/a11264f4-8781-4909-8857-ec06d12db598)
 
 
